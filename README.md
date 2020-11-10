@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Recent Blog Posts
+---
+
+### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [What's a Palindrome!?!?](https://dev.to/jtswisher/what-s-a-palindrome-221o)
 - [Reflection: Mock Technical Interview via SkilledInc](https://dev.to/jtswisher/reflection-mock-technical-interview-via-skilledinc-35o2)
@@ -21,4 +24,13 @@ Here are some ideas to get you started:
 - [Javascript Scope](https://dev.to/jtswisher/javascript-scope-3k4h)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://dev.to/jtswisher)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
 [![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=JTSwisher&show_icons=true&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
