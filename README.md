@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=JTSwisher&show_icons=true&&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
