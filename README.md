@@ -17,10 +17,8 @@
 
 - 🔭 I’m currently working on ... landing my first Dev Job
 - 🌱 I’m currently learning ... Node.js
-- 🥅 2020 Goals: Contribute to open source projects
+- 🥅 2021 Goals: Contribute to open source projects
 - 📫 How to reach me: <a href='mailto:jeff@jtswisher.com'>jeff@jtswisher.com</a>
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
 -->
 
 ### Some of my favorite things:
