@@ -2,8 +2,14 @@
   Hi there 👋 I'm Jeff👨‍💻
 </h1>
 
-<a href="https://www.linkedin.com/in/jeffswisher/" align='center'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dev.to/jtswisher" align='center'><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jeffswisher/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/jtswisher">
+    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+</p>
 
 Here are some ideas to get you started:
 
