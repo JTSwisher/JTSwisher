@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 </details>
----
 
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
   
