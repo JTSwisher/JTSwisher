@@ -1,4 +1,6 @@
-### Hi there, I'm Jeff 👋
+<h1 align='center'>
+  Hi there 👋 I'm Jeff👨‍💻
+</h1>
 
 Here are some ideas to get you started:
 
@@ -28,7 +30,6 @@ Here are some ideas to get you started:
 
 </details>
 
----
 <details>
   <summary>:zap: GitHub Stats</summary>
   
