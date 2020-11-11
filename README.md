@@ -2,6 +2,8 @@
   Hi there 👋 I'm Jeff👨‍💻
 </h1>
 
+<a href="https://www.linkedin.com/in/jeffswisher/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... landing my first Dev Job
