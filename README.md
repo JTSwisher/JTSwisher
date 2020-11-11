@@ -3,10 +3,10 @@
 </h1>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/jeffswisher/">
+  <a href="https://www.linkedin.com/in/jeffswisher/" target="blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://dev.to/jtswisher">
+  <a href="https://dev.to/jtswisher" target="blank">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>&nbsp;&nbsp;
 </p>
