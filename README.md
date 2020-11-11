@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... landing my first Dev Job
+- 🌱 I’m currently learning ... Node.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 
-### 📕 Latest Blog Posts
+
+---
+<details>
+  <summary>📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [What's a Palindrome!?!?](https://dev.to/jtswisher/what-s-a-palindrome-221o)
@@ -24,8 +26,7 @@ Here are some ideas to get you started:
 - [Javascript Scope](https://dev.to/jtswisher/javascript-scope-3k4h)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/jtswisher)
-
+</details>
 ---
 
 <details>
