@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Full-stack Engineer from Scottsdale, Arizona.
+  Full-stack Developer from Scottsdale, Arizona.
 </p>
 
 <p align='center'>
