@@ -17,7 +17,7 @@
 
 - 🔭  I’m currently working on ... landing my first Dev Job
 - 🌱  I’m currently learning ... Node.js
-- 🥅  2021 Goals: Contribute to open source projects
+- 🥅  2021 Goals: Contribute to open source projects, get AWS certified
 - 📫  How to reach me: <a href='mailto:jeff@jtswisher.com'>jeff@jtswisher.com</a>
 
 ### Some of my favorite things:
