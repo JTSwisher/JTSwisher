@@ -42,11 +42,11 @@
   <summary>📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures: What's a Stack?](https://dev.to/jtswisher/data-structures-what-s-a-stack-2jfd)
 - [What's a Palindrome!?!?](https://dev.to/jtswisher/what-s-a-palindrome-221o)
 - [Reflection: Mock Technical Interview via SkilledInc](https://dev.to/jtswisher/reflection-mock-technical-interview-via-skilledinc-35o2)
 - [Async Logic with Redux-Thunk](https://dev.to/jtswisher/async-logic-with-redux-thunk-4n39)
 - [Hoisting in Javascript](https://dev.to/jtswisher/hoisting-in-javascript-3af7)
-- [Javascript Scope](https://dev.to/jtswisher/javascript-scope-3k4h)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
