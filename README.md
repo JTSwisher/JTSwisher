@@ -15,7 +15,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-- 🌱  I’m currently learning ... Node.js
+- 🌱  I’m currently learning ... Node.js & Java
 - 🥅  2021 Goals: Contribute to open source projects, become AWS certified
 - 📫  How to reach me: <a href='mailto:jeff@jtswisher.com'>jeff@jtswisher.com</a>
 
